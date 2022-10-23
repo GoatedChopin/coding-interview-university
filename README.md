@@ -896,7 +896,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [ ] [Insertion sort in 2 minutes (video)](https://youtu.be/JU767SDMDvA)
 
 - [ ] Implement:
-    - [ ] Mergesort: O(n log n) average and worst case
+    - [X] Mergesort: O(n log n) average and worst case
     - [ ] Quicksort O(n log n) average case
     - Selection sort and insertion sort are both O(n^2) average and worst case
     - For heapsort, see Heap data structure above
@@ -1025,7 +1025,7 @@ Graphs can be used to represent many problems in computer science, so this secti
 - ### Design patterns
     - [ ] [Quick UML review (video)](https://www.youtube.com/watch?v=3cmzqZzwNDM&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc&index=3)
     - [ ] Learn these patterns:
-        - [ ] strategy
+        - [X] strategy
         - [ ] singleton
         - [ ] adapter
         - [ ] prototype
@@ -1033,7 +1033,7 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] visitor
         - [ ] factory, abstract factory
         - [ ] facade
-        - [ ] observer
+        - [X] observer
         - [ ] proxy
         - [ ] delegate
         - [ ] command
